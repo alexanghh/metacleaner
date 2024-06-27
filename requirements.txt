@@ -1,0 +1,9 @@
+aiofiles
+anyio
+fastapi
+mat2==0.13.4
+mutagen==1.47.0
+PyGObject==3.48.2
+pycairo
+python-multipart
+uvicorn
